@@ -1,0 +1,16 @@
+/* This is the CSS page that I created to add to the Bootstrap CSS */
+
+/* Color Palette */
+/* https://flatuicolors.com/palette/us */
+
+.main_title_top {
+	font-family: 'Homemade Apple', cursive;
+	font-size: 32px;
+	letter-spacing: 2px;
+}
+
+.main_title {
+	font-family: 'Montserrat', sans-serif;
+	color: #fff;
+	letter-spacing: 6px;
+}
