@@ -19,6 +19,7 @@
 	color: #fff;
 }
 
+/*
 .card_one, .card_two, .card_three {
 	border: none;
 	width: 15rem;
@@ -30,6 +31,21 @@
 	border: 3px solid red;
 	padding: 10px;
 }
+
+*/
+
+
+
+.img_filler {
+	width: 20%;
+	height: 20%;
+}
+
+
+.accordion_style {
+	width: 50%;
+}
+
 
 
 
