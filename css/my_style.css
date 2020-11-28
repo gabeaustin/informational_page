@@ -21,17 +21,17 @@
 
 .card_one, .card_two, .card_three {
 	border: none;
-	width: 18rem;
+	width: 15rem;
 }
-/*
+
 .row-centered{
-	/* margin: auto;
-	width: 50%;
-	border: 3px solid green;
+	margin: auto;
+	width: 75%;
+	border: 3px solid red;
 	padding: 10px;
 }
 
-*/
+
 
 
 
