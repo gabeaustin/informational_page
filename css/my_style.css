@@ -5,7 +5,7 @@
 
 .main_title_top {
 	font-family: 'Homemade Apple', cursive;
-	font-size: 32px;
+	font-size: 24px;
 	letter-spacing: 2px;
 }
 
@@ -14,3 +14,27 @@
 	color: #fff;
 	letter-spacing: 6px;
 }
+
+.main_page_btn {
+	color: #fff;
+}
+
+.card_one, .card_two, .card_three {
+	border: none;
+	width: 18rem;
+}
+/*
+.row-centered{
+	/* margin: auto;
+	width: 50%;
+	border: 3px solid green;
+	padding: 10px;
+}
+
+*/
+
+
+
+
+
+
