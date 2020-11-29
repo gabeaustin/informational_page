@@ -20,42 +20,17 @@
 }
 
 /*
-.card_one, .card_two, .card_three {
-	border: none;
-	width: 15rem;
-}
-
-.row-centered{
-	margin: auto;
-	width: 75%;
-	border: 3px solid red;
-	padding: 10px;
-}
-
-*/
-
-
-
 .img_filler {
 	width: 20%;
 	height: 20%;
 }
-
+*/
 
 .my_accordion_style {
 	width: 50%;
 	/* color: #6c5ce7; */
 	border: solid 2px pink;
 	margin: auto;
-}
-
-.my_main_row {
-	margin: auto;
-	border: solid 2px black;
-}
-
-.center_main_accordion {
-	border: solid 2px gold;
 }
 
 
