@@ -1,7 +1,11 @@
 /* This is the CSS page that I created to add to the Bootstrap CSS */
 
-/* Color Palette */
-/* https://flatuicolors.com/palette/us */
+/*
+Color Palette
+
+** https://flatuicolors.com/palette/us 
+** https://flatuicolors.com/palette/defo - Flat UI Palette
+*/
 
 .main_title_top {
 	font-family: 'Homemade Apple', cursive;
@@ -28,11 +32,20 @@
 
 .my_accordion_style {
 	width: 50%;
-	/* color: #6c5ce7; */
-	border: solid 2px pink;
 	margin: auto;
 }
 
+.my_card_header_1 {
+	background-color: #283350;
+}
+
+.my_card_header_2 {
+	background-color: #FFB500;	
+}
+
+.my_card_header_3 {
+	background-color: #F93800;
+}
 
 
 
