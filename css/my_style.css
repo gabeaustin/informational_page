@@ -40,12 +40,17 @@ Color Palette
 }
 
 .my_card_header_2 {
-	background-color: #FFB500;	
+	background-color: #FFB500;
 }
 
 .my_card_header_3 {
 	background-color: #F93800;
 }
+
+.my_button_1, .my_button_2, .my_button_3 {
+	color: white;
+}
+
 
 
 
