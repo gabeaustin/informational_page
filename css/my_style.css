@@ -15,12 +15,12 @@ Color Palette
 
 .main_title {
 	font-family: 'Montserrat', sans-serif;
-	color: #fff;
+	color: #FFF;
 	letter-spacing: 6px;
 }
 
 .main_page_btn {
-	color: #fff;
+	color: #FFF;
 }
 
 /*
@@ -39,12 +39,24 @@ Color Palette
 	background-color: #283350;
 }
 
+.my_button_1:hover {
+	color: #FFF;
+}
+
 .my_card_header_2 {
 	background-color: #FFB500;
 }
 
+.my_button_2:hover {
+	color: #283350;
+}
+
 .my_card_header_3 {
 	background-color: #F93800;
+}
+
+.my_button_3:hover {
+	color: #283350;
 }
 
 .my_button_1, .my_button_2, .my_button_3 {
