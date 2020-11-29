@@ -44,7 +44,18 @@
 
 .my_accordion_style {
 	width: 50%;
-	/* background-color: #6c5ce7; */
+	/* color: #6c5ce7; */
+	border: solid 2px pink;
+	margin: auto;
+}
+
+.my_main_row {
+	margin: auto;
+	border: solid 2px black;
+}
+
+.center_main_accordion {
+	border: solid 2px gold;
 }
 
 
