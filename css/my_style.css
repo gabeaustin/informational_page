@@ -35,33 +35,21 @@ Color Palette
 	margin: auto;
 }
 
-.my_card_header_1 {
+.my_button_1, .my_button_2, .my_button_3 {
+	color: #FFF;
 	background-color: #283350;
 }
 
-.my_button_1:hover {
-	color: #FFF;
+.my_button_1:hover, .my_button_2:hover, .my_button_3:hover{
+	color: #5BC0DE;
 }
 
-.my_card_header_2 {
-	background-color: #FFB500;
+.my_card_header_1, .my_card_header_2, .my_card_header_3 {
+	background-color: #283350;
 }
 
-.my_button_2:hover {
-	color: #283350;
-}
 
-.my_card_header_3 {
-	background-color: #F93800;
-}
 
-.my_button_3:hover {
-	color: #283350;
-}
-
-.my_button_1, .my_button_2, .my_button_3 {
-	color: white;
-}
 
 
 
